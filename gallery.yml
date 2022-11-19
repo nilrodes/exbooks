@@ -1,0 +1,16 @@
+- name: Geo-SfM
+  website: https://unisvalbard.github.io/Geo-SfM/landing-page.html
+  image: https://unisvalbard.github.io/Geo-SfM/_static/logo.gif
+  keywords: Structure from Motion processing tutorial for the geosciences.
+- name: AG222 Compendium
+  website: https://unisvalbard.github.io/AG222/landing-page.html
+  image: https://unisvalbard.github.io/AG222/_static/UNIS_logo.gif
+  keywords: AG222 course compendium.
+- name: Svalbox Cookbook
+  website: https://svalbox.github.io/Svalbox-cookbook/intro.html
+  image: https://svalbox.github.io/Svalbox-cookbook/_static/logo.gif
+  keywords: Handy Tips and Tricks for dealing with the Svalbox database.
+- name: Svalbox Portal
+  website: https://svalbox.no
+  image: https://svalbox.github.io/Svalbox-cookbook/_static/logo.gif
+  keywords: The Svalbox.no portal provides integrated, geoscientific data.
