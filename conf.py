@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ebook'
-copyright = '2022, Peter Betlem'
+copyright = '2023, Peter Betlem'
 author = 'Peter Betlem'
 
 
@@ -48,7 +48,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = "sphinx_book_theme"
 html_logo = "_static/UNIS_logo.gif"
 html_favicon = "_static/UNIS_logo.gif"
-html_title = "UNIS eXbooks"
+html_title = "UNIS eXBooks"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

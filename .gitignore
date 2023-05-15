@@ -156,3 +156,6 @@ cython_debug/
 #.idea/
 make.bat
 Makefile
+run.bat
+
+_buildcd
