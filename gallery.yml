@@ -20,9 +20,9 @@
   keywords: Leica GNSS equipment tutorial.
 - name: Geo-MOD
   website: https://unisvalbard.github.io/Geo-MOD/landing-page.html
-  image: https://unisvalbard.github.io/Geo-MOD/_static/UNIS_logo.gif
+  image: https://unisvalbard.github.io/Geo-MOD/_static/geo_mod-01.png
   keywords: Teaching photogrammetry-based data acquisition and processing.
 - name: Geo-UAV
   website: https://unisvalbard.github.io/Geo-UAV/landing-page.html
-  image: https://unisvalbard.github.io/Geo-UAV/_static/UNIS_logo.gif
+  image: https://unisvalbard.github.io/Geo-MOD/_static/geo_mod-01.png
   keywords: UAV-based data acquisition tutorial for the geosciences.
